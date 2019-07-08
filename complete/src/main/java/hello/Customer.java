@@ -1,4 +1,4 @@
-// tag::sample[]
+
 package hello;
 
 import javax.persistence.Entity;
